@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @gitzhikang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Zhikang
+- 👀 I’m interested in backend development including caching, could.
+- 🌱 I’m currently a student in MS ECE at Duke University.
+- 💞️ I’m looking for an SDE summer intern.
+- 📫 How to reach me:
+-     Linkedin: https://www.linkedin.com/in/zhikang-song
+-     GitHub: https://github.com/gitzhikang
 
-<!---
-gitzhikang/gitzhikang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
